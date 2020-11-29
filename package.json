@@ -1,0 +1,52 @@
+{
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^10.0.0",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-native-picker/picker": "^1.9.2",
+    "@react-navigation/bottom-tabs": "^5.8.0",
+    "@react-navigation/drawer": "^5.9.0",
+    "@react-navigation/material-bottom-tabs": "^5.2.16",
+    "@react-navigation/material-top-tabs": "^5.2.16",
+    "@react-navigation/native": "^5.7.3",
+    "@react-navigation/stack": "^5.9.0",
+    "expo": "~39.0.2",
+    "expo-constants": "~9.2.0",
+    "expo-image-picker": "~9.1.0",
+    "expo-permissions": "~9.3.0",
+    "expo-splash-screen": "~0.6.2",
+    "expo-status-bar": "~1.0.2",
+    "expo-updates": "~0.3.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "~0.63.3",
+    "react-native-event-listeners": "^1.0.7",
+    "react-native-gesture-handler": "~1.7.0",
+    "react-native-material-dropdown": "*",
+    "react-native-paper": "^4.0.1",
+    "react-native-reanimated": "~1.13.0",
+    "react-native-safe-area-context": "3.1.4",
+    "react-native-screens": "~2.10.1",
+    "react-native-svg": "^12.1.0",
+    "react-native-svg-transformer": "^0.14.3",
+    "react-native-tab-view": "^2.15.1",
+    "react-native-unimodules": "~0.11.0",
+    "react-native-vector-icons": "^7.1.0",
+    "react-native-web": "~0.13.12"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0",
+    "babel-jest": "~25.2.6",
+    "jest": "~25.2.6",
+    "react-test-renderer": "~16.13.1"
+  },
+  "private": true,
+  "name": "Hackathon",
+  "version": "1.0.0"
+}
